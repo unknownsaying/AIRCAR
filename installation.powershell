@@ -1,0 +1,4 @@
+# In Visual Studio Package Manager Console
+Install-Package Newtonsoft.Json
+Install-Package Microsoft.AspNet.WebApi.Client
+Install-Package System.Configuration.ConfigurationManager
